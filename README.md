@@ -1,2 +1,3 @@
-# Primeiro_Repositorio
-Meu primeiro repositorio
+# ATIVIDADE PRÁTICA #3 DE PROGRAMACAO_1 UFSC 2025_1
+
+este repositorio contem a ATIVIDADE PRÁTICA #3 DE PROGRAMACAO_1 UFSC 2025_1
